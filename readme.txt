@@ -56,5 +56,9 @@ You can send the translation by e-mail. Send for biuro@sniezek.com.
 
 == Changelog ==
 
+= 1.0.1 =
+* Add featured images column to table on admin panel
+* Add excerpt column to table on admin panel
+
 = 1.0 =
 * First release

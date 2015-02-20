@@ -3,7 +3,7 @@
 * Plugin Name: Curriculum Vitae (by osFlake)
 * Plugin URI: www.sniezek.eu
 * Description: This plugins showing your CV!
-* Version: 1.0
+* Version: 1.0.1
 * Author: osFlake Arkadiusz Śnieżek
 * Author URI: http://www.sniezek.eu/
 * Text Domain: cv-osflake
