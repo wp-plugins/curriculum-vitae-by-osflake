@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Curriculum Vitae (by osFlake) v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-02-19 09:59:51+0000\n"
+"Last-Translator: osFlake <biuro@sniezek.eu>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: cv-osflake.php:37
+#@ default
+msgctxt "post type general name"
+msgid "CV"
+msgstr ""
+
+#: cv-osflake.php:38
+#@ default
+msgctxt "post type singular name"
+msgid "cv"
+msgstr ""
+
+#: cv-osflake.php:39
+#: cv-osflake.php:40
+#@ cv-osflake
+msgid "Dodaj nowe"
+msgstr "Add new"
+
+#: cv-osflake.php:41
+#@ cv-osflake
+msgid "Edytuj cv"
+msgstr "Edit CV"
+
+#: cv-osflake.php:42
+#@ cv-osflake
+msgid "Nowe cv"
+msgstr "New item CV"
+
+#: cv-osflake.php:43
+#@ cv-osflake
+msgid "Wszystkie cv"
+msgstr "All items"
+
+#: cv-osflake.php:44
+#@ cv-osflake
+msgid "Zobacz cv"
+msgstr "View CV"
+
+#: cv-osflake.php:46
+#@ cv-osflake
+msgid "Nie znaleziono pozycji"
+msgstr "Not found!"
+
+#: cv-osflake.php:47
+#@ cv-osflake
+msgid "Nie znaleziono pozycji w koszu"
+msgstr "Not found in trash"
+
+#: cv-osflake.php:71
+#: cv-osflake.php:76
+#@ cv-osflake
+msgid "CV - kategoria"
+msgstr "CV - category"
+
+#: cv-osflake.php:77
+#@ cv-osflake
+msgid "Najpopularniejsze"
+msgstr "Most popular"
+
+#: cv-osflake.php:78
+#@ cv-osflake
+msgid "Wszystkie"
+msgstr "All"
+
+#: cv-osflake.php:79
+#@ cv-osflake
+msgid "Nadrzędny"
+msgstr "Parent"
+
+#: cv-osflake.php:80
+#@ cv-osflake
+msgid "Nadrzędna Kategoria"
+msgstr "Parent category"
+
+#: cv-osflake.php:81
+#@ cv-osflake
+msgid "Edytuj"
+msgstr "Edit item"
+
+#: cv-osflake.php:82
+#@ cv-osflake
+msgid "Aktualizuj"
+msgstr "Update"
+
+#: cv-osflake.php:83
+#@ cv-osflake
+msgid "Dodaj nową"
+msgstr "Add new"
+
+#: cv-osflake.php:84
+#@ cv-osflake
+msgid "Nowa kategoria"
+msgstr "New category"
+
+#: cv-osflake.php:85
+#@ cv-osflake
+msgid "Oddziel przecinkami"
+msgstr "Separate by commas"
+
+#: cv-osflake.php:86
+#@ cv-osflake
+msgid "Dodaj lub usuń"
+msgstr "Add or delete"
+
+#: cv-osflake.php:87
+#@ cv-osflake
+msgid "Wybierz z najczęściej używanych"
+msgstr "Choose from most used"
+
+#: cv-osflake.php:49
+#: cv-osflake.php:168
+#@ cv-osflake
+msgid "CV"
+msgstr "Curriculum Vitae"
+
+#: cv-osflake.php:169
+#@ cv-osflake
+msgid "A osFlake Widget to show Your CV"
+msgstr "A osFlake Widget to show Your CV"
+
+#: cv-osflake.php:199
+#@ cv-osflake
+msgid "New title"
+msgstr "New title"
+
+#: cv-osflake.php:200
+#@ default
+msgid "Title:"
+msgstr ""
+
+#: cv-osflake.php:225
+#@ cv-osflake
+msgid "Ustawienia dla pluginu CV"
+msgstr "CV Plugin Settings "
+
+#: cv-osflake.php:225
+#@ cv-osflake
+msgid "CV - ustawienia"
+msgstr "CV - settings"
+
+#: cv-osflake.php:267
+#@ cv-osflake
+msgid "strona ustawień wtyczki"
+msgstr "CV settings page"
+
+#: cv-osflake.php:274
+#@ cv-osflake
+msgid "Imię i nazwisko"
+msgstr "Name and surname"
+
+#: cv-osflake.php:279
+#@ cv-osflake
+msgid "Twoje motto"
+msgstr "Your motto"
+
+#: cv-osflake.php:284
+#@ cv-osflake
+msgid "Zdjęcie profilowe CV"
+msgstr "Photo"
+
+#: cv-osflake.php:287
+#@ cv-osflake
+msgid "Wybierz zdjęcie"
+msgstr "Choose photo"
+
+#: cv-osflake.php:288
+#@ cv-osflake
+msgid "Załaduj zdjęcie lub wybierz z bazy plików"
+msgstr "Upload your photo or select from media section"
+
+#: cv-osflake.php:45
+#@ cv-osflake
+msgid "Szukaj cv"
+msgstr "Search cv"
+
+#: cv-osflake.php:310
+#, php-format
+#@ cv-osflake
+msgid "Plugin CV wymaga dodania <b>imienia i nazwiska.</b>  <a href=\"%s\">Zaktualizuj</a>"
+msgstr "CV plugin required your <b>name and surname </b>  <a href=\"%s\">Update this field</a>"
+
+#: cv-osflake.php:314
+#, php-format
+#@ cv-osflake
+msgid "Plugin CV wymaga dodania zdjęcia! <a href=\"%s\">Zaktualizuj</a>"
+msgstr "CV plugin required your <b>photo </b>  <a href=\"%s\">Update this field</a>"
+

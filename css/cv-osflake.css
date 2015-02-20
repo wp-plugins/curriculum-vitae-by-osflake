@@ -1,0 +1,62 @@
+/* ************************ */
+/*     CV WYSWIETLANIE      */
+/* ************************ */
+
+.fonty-up{
+	text-transform: uppercase !important;
+	Font-family: Trebuchet MS, Century Gothic, Tahoma;
+}
+.fonty-lo{
+	Font-family: Trebuchet MS, Century Gothic, Tahoma;
+	text-transform: lowercase !important;
+}
+.cv-category-name{
+	font-size: 2.0em !important;
+	width: 97%;
+	background-color: lightgrey;
+	padding: 2%;
+	text-align: right;
+}
+
+.cv-title{
+	font-size: 1.6em !important;
+}
+
+.cv-table {
+	margin: 0px 5px 5px 5px;
+}
+
+.cv-table-row{
+	padding: 0 10px 10px 10px;
+	margin-top: 0px 10px;
+	border-left: 2px solid lightgrey;
+	border-bottom: 2px solid lightgrey;
+}
+
+.opis-left{width:98%;}
+.img-position{ float: right; margin: 5px;}
+.clear{ clear: both; }
+.odstep{ margin: 30px 0px; }
+.font-bigger{ font-size: 2.5em !important; }
+
+.cv-head{ 
+	margin: 0px 5px 20px 5px; 
+	padding: 1%; 
+	text-align: center;
+	background-color: #efefef;
+}
+.img-cv{
+	text-align: left;
+	float: left;
+	max-width: 250px;
+	margin: 0px 10px 10px 0px;
+	border: 6px solid lightgrey;
+	border-radius: 10px;
+	box-shadow: 7px 7px 4px #888888;
+}
+
+.show-info{
+	padding: 5px;
+	border: 1px solid lightgrey;
+	background-color: white !important;
+}
