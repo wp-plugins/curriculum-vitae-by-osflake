@@ -3,7 +3,7 @@ Contributors: osFlake
 Tags: cv, curriculum, curriculum vitae, vitae, shortcode, panel, admin, osflake
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=arkadiusz@sniezek.eu&item_name=Donation+for+Curriculum+Vitae
 Requires at least: 3.5
-Tested up to: 4.1
+Tested up to: 4.1.1
 Stable tag: 1.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -14,6 +14,7 @@ Show all your experience, hobbies, education and interests.
 
 <p>Curriculum Vitae (by osFlake) is a WordPress plugin that show your CV on your websites. You could add your life experience, hobbies, education and interests using photos or graphics. </p>
 
+<p>Curriculum Vitae (by osFlake) jest darmową wtyczką, która służy do zaprezentowania swojego CV na swojej stronie internetowej. Można tworzyć swoje kategorie życiorysu oraz dodawać własne grafiki.</p>
 
 == Installation ==
 
@@ -21,7 +22,17 @@ Show all your experience, hobbies, education and interests.
 2.Active plugin<br>
 3.Insert Name and surname and upload your photo<br/>
 4.Add category of CV<br>
-4.Add items of your CV<br>
+5.Add items of your CV<br><br/>
+
+If You want to show Your CV on page, You have to put shortcore [show-cv].<br><br>
+
+1.Wypakuj plugin do folderu /wp-content/plugins/ lub zaimportuj przez panel wordpressa<br>
+2.Aktywuj plugin<br>
+3.Wpisz imię, nazwisko oraz swoje zdjęcie profilowe do CV<br/>
+4.Dodaj kategorie w kolejności wyświetlania<br>
+5.Dodawaj pozycje do swojego cv<br><br>
+
+Jeżeli chcesz wyświetlić swoje cv na dowolnej stronie lub wpisie, wpisz w treści shortcode [show-cv].
 
 == License ==
 
