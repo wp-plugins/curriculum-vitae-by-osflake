@@ -137,8 +137,11 @@ function cv_about_page() {
 	echo "<div class='wrap'>";
 	echo "<h2>".__('About',CV_OSFLAKE_DOMAIN_LANG)."</h2>";
 	echo "<div class='opis-left'>";
-	echo "<img src='".CV_OSFLAKE_URL."img/autor.jpg' alt='osFlake Arkadiusz Śnieżek' align='left'/>";
-		echo "some text";
+	echo "<img src='".CV_OSFLAKE_URL."img/autor.jpg' alt='osFlake Arkadiusz Śnieżek' align='left' style='margin-right: 20px;'/>";
+		echo "<div style='width:800px;margin: 20px;'>Od kilku lat związany z mediami, był m.in. założycielem studenckiego radia. Człowiek o tysiącu pomysłów. Zapalony swnowboardzista. Optymistyczny realisata. W wolnych chwilach lepi pierogi i nagrywa dźwięki.</div>";
+		echo "<div style='width:800px;margin: 20px;'> Arek has been working in media for quite some time now. He was a founder of university’s radio. The man of thousand ideas. Avid snowboarder. Optimistically realistic. In his free time he makes pierogi and records sounds.</div>";
+		echo "<a href='http://www.facebook.com/arkadiusz.sniezek' target='_blank'><img src='".CV_OSFLAKE_URL."img/facebook_icon.png' alt='Arkadiusz Śnieżek' width='30'/></a> ";
+		echo "<a href='https://www.linkedin.com/profile/view?id=16943034' target='_blank'><img src='".CV_OSFLAKE_URL."img/linkedin_icon.gif' alt='Arkadiusz Śnieżek' width='30'/></a>";
 	echo '</div>';
 	echo "</div>";
 }
