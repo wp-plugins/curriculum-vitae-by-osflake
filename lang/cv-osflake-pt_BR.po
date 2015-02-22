@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Curriculum Vitae (by osFlake) v1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-02-20 20:01:38+0000\n"
+"Last-Translator: Pedro Marcelo <pedromarcelodesaalves@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: lib/admin/cv-admin.php:9
+#@ cv-osflake
+msgid "CV Plugin Settings"
+msgstr "CV Configurações do Plugin"
+
+#: lib/admin/cv-admin.php:9
+#@ cv-osflake
+msgid "CV - settings"
+msgstr "CV - configurações"
+
+#: lib/admin/cv-admin.php:55
+#@ cv-osflake
+msgid "cv settings page"
+msgstr "CV página de configurações"
+
+#: lib/admin/cv-admin.php:73
+#@ cv-osflake
+msgid "Name and surname"
+msgstr "Nome e sobrenome"
+
+#: lib/admin/cv-admin.php:78
+#@ cv-osflake
+msgid "Your motto"
+msgstr "Seu lema"
+
+#: lib/admin/cv-admin.php:83
+#@ cv-osflake
+msgid "Photo"
+msgstr "Foto"
+
+#: lib/admin/cv-admin.php:86
+#@ cv-osflake
+msgid "Choose photo"
+msgstr "Escolher foto"
+
+#: lib/admin/cv-admin.php:87
+#@ cv-osflake
+msgid "Upload your photo or select from media section"
+msgstr "Envie sua foto ou selecione da seção de mídia"
+
+#: lib/admin/cv-admin.php:115
+#, php-format
+#@ cv-osflake
+msgid "CV plugin required your <b>name and surname </b> <a href=\\\"%s\\\">Update this field</a>"
+msgstr "Plugin CV requer seu <b>nome e sobrenome</b> <a href=\"%s\">Atualizar este campo</a>"
+
+#: lib/admin/cv-admin.php:120
+#, php-format
+#@ cv-osflake
+msgid "CV plugin required your <b>photo </b> <a href=\\\"%s\\\">Update this field</a>"
+msgstr "Plugin CV requer sua <b>foto</b> <a href=\"%s\">Atualizar este campo</a>"
+
+#: lib/menu/cv-menu.php:4
+#@ default
+msgctxt "post type general name"
+msgid "Curriculum Vitae"
+msgstr ""
+
+#: lib/menu/cv-menu.php:5
+#@ default
+msgctxt "post type singular name"
+msgid "cv"
+msgstr ""
+
+#: lib/menu/cv-menu.php:6
+#: lib/menu/cv-menu.php:7
+#: lib/menu/cv-menu.php:50
+#@ cv-osflake
+msgid "Add new"
+msgstr "Adicionar novo"
+
+#: lib/menu/cv-menu.php:8
+#@ cv-osflake
+msgid "Edit CV"
+msgstr "Editar CV"
+
+#: lib/menu/cv-menu.php:9
+#@ cv-osflake
+msgid "New item CV"
+msgstr "Novo item CV"
+
+#: lib/menu/cv-menu.php:10
+#@ cv-osflake
+msgid "All items"
+msgstr "Todos os itens"
+
+#: lib/menu/cv-menu.php:11
+#@ cv-osflake
+msgid "View CV"
+msgstr "Visualizar CV"
+
+#: lib/menu/cv-menu.php:12
+#@ cv-osflake
+msgid "Szukaj cv"
+msgstr "Pesquisar cv"
+
+#: lib/menu/cv-menu.php:13
+#@ cv-osflake
+msgid "Not found!"
+msgstr "Não encontrado!"
+
+#: lib/menu/cv-menu.php:14
+#@ cv-osflake
+msgid "Not found in trash"
+msgstr "Não encontrado na lixeira"
+
+#: lib/menu/cv-menu.php:16
+#@ cv-osflake
+msgid "Curriculum vitae"
+msgstr "Curriculum Vitae"
+
+#: lib/menu/cv-menu.php:38
+#: lib/menu/cv-menu.php:43
+#@ cv-osflake
+msgid "CV - category"
+msgstr "CV - categoria"
+
+#: lib/menu/cv-menu.php:44
+#@ cv-osflake
+msgid "Most popular"
+msgstr "Mais popular"
+
+#: lib/menu/cv-menu.php:45
+#@ cv-osflake
+msgid "All"
+msgstr "Tudo"
+
+#: lib/menu/cv-menu.php:46
+#@ cv-osflake
+msgid "Parent"
+msgstr "Pai"
+
+#: lib/menu/cv-menu.php:47
+#@ cv-osflake
+msgid "Parent category"
+msgstr "Categoria mãe"
+
+#: lib/menu/cv-menu.php:48
+#@ cv-osflake
+msgid "Edit item"
+msgstr "Editar item"
+
+#: lib/menu/cv-menu.php:49
+#@ cv-osflake
+msgid "Update"
+msgstr "Atualizar"
+
+#: lib/menu/cv-menu.php:51
+#@ cv-osflake
+msgid "New category"
+msgstr "Nova categoria"
+
+#: lib/menu/cv-menu.php:52
+#@ cv-osflake
+msgid "Separate by commas"
+msgstr "Separar por vírgulas"
+
+#: lib/menu/cv-menu.php:53
+#@ cv-osflake
+msgid "Add or delete"
+msgstr "Adicionar ou excluir"
+
+#: lib/menu/cv-menu.php:54
+#@ cv-osflake
+msgid "Choose from most used"
+msgstr "Escolha entre os mais utilizados"
+
+#: lib/shortcode/cv-shortcode.php:4
+#@ cv-osflake
+msgid "more..."
+msgstr "mais..."
+
+#: lib/shortcode/cv-shortcode.php:5
+#@ cv-osflake
+msgid "less..."
+msgstr "menos..."
+
+#: lib/shortcode/cv-shortcode.php:71
+#@ cv-osflake
+msgid "edytuj"
+msgstr "editar"
+
+#: lib/widget/cv-widget.php:10
+#@ cv-osflake
+msgid "CV"
+msgstr "CV"
+
+#: lib/widget/cv-widget.php:11
+#@ cv-osflake
+msgid "A osFlake Widget to show Your CV"
+msgstr "Um widget osFlake para mostrar seu CV"
+
+#: lib/widget/cv-widget.php:41
+#@ cv-osflake
+msgid "New title"
+msgstr "Novo título"
+
+#: lib/widget/cv-widget.php:42
+#@ cv-osflake
+msgid "Title:"
+msgstr "Titulo"
+
