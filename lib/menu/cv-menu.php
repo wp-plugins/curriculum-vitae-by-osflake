@@ -59,8 +59,8 @@ function taxonomia_cv_category() {
 }
 
 function dodanie_kolumny_w_cv_admin( $column ) {
-    $column['dod_opis'] = 'Opis';
-    $column['obrazek'] = 'Obrazek';
+    $column['dod_opis'] = _e('Excerpt',CV_OSFLAKE_DOMAIN_LANG);
+    $column['obrazek'] = _e('Picture',CV_OSFLAKE_DOMAIN_LANG);
     return $column;
 }
 
