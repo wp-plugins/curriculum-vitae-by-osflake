@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Curriculum Vitae (by osFlake) v1.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-02-24 08:36:41+0000\n"
+"PO-Revision-Date: 2015-02-24 08:55:33+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -61,13 +61,13 @@ msgstr "Titulo"
 msgid "cv settings page"
 msgstr "CV página de configurações"
 
-#: lib/admin/cv-admin.php:159
+#: lib/admin/cv-admin.php:164
 #, php-format
 #@ cv-osflake
 msgid "CV plugin required your <b>name and surname </b> <a href=\\\"%s\\\">Update this field</a>"
 msgstr "Plugin CV requer seu <b>nome e sobrenome</b> <a href=\"%s\">Atualizar este campo</a>"
 
-#: lib/admin/cv-admin.php:164
+#: lib/admin/cv-admin.php:169
 #, php-format
 #@ cv-osflake
 msgid "CV plugin required your <b>photo </b> <a href=\\\"%s\\\">Update this field</a>"
@@ -256,5 +256,20 @@ msgstr "editar"
 #: lib/widget/cv-widget.php:41
 #@ cv-osflake
 msgid "Curriculum Vitae"
+msgstr ""
+
+#: lib/admin/cv-admin.php:144
+#@ cv-osflake
+msgid "My other products:"
+msgstr ""
+
+#: lib/admin/cv-admin.php:145
+#@ cv-osflake
+msgid "Bank of Voice"
+msgstr ""
+
+#: lib/admin/cv-admin.php:146
+#@ cv-osflake
+msgid "Vegan and traditional dumplings"
 msgstr ""
 

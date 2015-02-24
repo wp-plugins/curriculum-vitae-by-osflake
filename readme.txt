@@ -1,4 +1,4 @@
-=== Curriculum Vitae (by osFlake) ===
+﻿=== Curriculum Vitae (by osFlake) ===
 Contributors: osFlake Arkadiusz Śnieżek
 Tags: cv, curriculum, curriculum vitae, vitae, shortcode, panel, admin, osflake
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=arkadiusz@sniezek.eu&item_name=Donation+for+Curriculum+Vitae
@@ -56,6 +56,8 @@ You should have received a copy of the GNU General Public License along with Cur
 2. This is Admin Panel of CV.<br>
 3. This is CV settings page.<br>
 4. Widget area view. You could put Curriculum Vitae plugin to your widget area.<br>
+5. Viewing of curriculum vitae items<br>
+6. Instructions of putting information<br>
 
 == Frequently Asked Questions ==
 
@@ -66,7 +68,7 @@ You can send the translation by e-mail. Send for biuro@sniezek.com.
 == Changelog ==
 
 = 1.1 =
-* Updated: main structures were rebuilded 
+* Updated: Main structures were rebuilded 
 * Fixed: Problem with showing attributes (admin page)
 * Added: Translation by Pedro Marcelo de Sá Alves
 * Added: Managing schemas colors

@@ -139,9 +139,14 @@ function cv_about_page() {
 	echo "<div class='opis-left'>";
 	echo "<img src='".CV_OSFLAKE_URL."img/autor.jpg' alt='osFlake Arkadiusz Śnieżek' align='left' style='margin-right: 20px;'/>";
 		echo "<div style='width:800px;margin: 20px;'>";
-			_e('Arek has been working in media for quite some time now. He was a founder of university’s radio. The man of thousand ideas. Avid snowboarder. Optimistically realistic. In his free time he makes pierogi and records sounds.',CV_OSFLAKE_DOMAIN_LANG);		echo "</div>";
+			_e('Arek has been working in media for quite some time now. He was a founder of university’s radio. The man of thousand ideas. Avid snowboarder. Optimistically realistic. In his free time he makes pierogi and records sounds.',CV_OSFLAKE_DOMAIN_LANG);		
+		echo "</div>";
+			_e('My other products:',CV_OSFLAKE_DOMAIN_LANG);	
+		echo "<a href='http://www.bankglosowradiowych.pl/?from=cv' target='_blank'><img src='".CV_OSFLAKE_URL."img/bgr-logo.png' alt='".__('Bank of Voice',CV_OSFLAKE_DOMAIN_LANG)."/></a> ";			
+		echo "<a href='http://www.pierogizjasienicy.pl/?from=cv' target='_blank'><img src='".CV_OSFLAKE_URL."img/pierogi-logo.jpg' alt='".__('Vegan and traditional dumplings',CV_OSFLAKE_DOMAIN_LANG)."'/></a> ";			
 		echo "<a href='http://www.facebook.com/arkadiusz.sniezek' target='_blank'><img src='".CV_OSFLAKE_URL."img/facebook_icon.png' alt='Arkadiusz Śnieżek' width='30'/></a> ";
 		echo "<a href='https://www.linkedin.com/profile/view?id=16943034' target='_blank'><img src='".CV_OSFLAKE_URL."img/linkedin_icon.gif' alt='Arkadiusz Śnieżek' width='30'/></a>";
+		
 	echo '</div>';
 	echo "</div>";
 }
