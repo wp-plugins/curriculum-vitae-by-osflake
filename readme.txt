@@ -4,7 +4,7 @@ Tags: cv, curriculum, curriculum vitae, vitae, shortcode, panel, admin, osflake
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=arkadiusz@sniezek.eu&item_name=Donation+for+Curriculum+Vitae
 Requires at least: 3.5
 Tested up to: 4.1.1
-Stable tag: 1.1
+Stable tag: 1.1.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -66,6 +66,11 @@ You should have received a copy of the GNU General Public License along with Cur
 You can send the translation by e-mail. Send for biuro@sniezek.com.
 
 == Changelog ==
+
+= 1.1.1 =
+* Updated: Language pack (BR,EN,PL)
+* Added: 2 screenshots
+* Updated: About page
 
 = 1.1 =
 * Updated: Main structures were rebuilded 
