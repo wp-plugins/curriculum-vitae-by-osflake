@@ -68,9 +68,9 @@ You can send the translation by e-mail. Send for biuro@sniezek.com.
 == Changelog ==
 
 = 1.1.1 =
-* Updated: Language pack (BR,EN,PL)
-* Added: 2 screenshots
-* Updated: About page
+* Updated: Language pack (BR,EN,PL).
+* Added: 2 screenshots.
+* Updated: About page.
 
 = 1.1 =
 * Updated: Main structures were rebuilded 
