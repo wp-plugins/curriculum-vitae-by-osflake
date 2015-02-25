@@ -1,7 +1,7 @@
 <?php
 /*
 * Plugin Name: Curriculum Vitae (by osFlake)
-* Plugin URI: www.sniezek.eu
+* Plugin URI: http://www.sniezek.eu
 * Description: This plugins showing your CV!
 * Version: 1.1.1
 * Author: osFlake Arkadiusz Śnieżek
